@@ -40,6 +40,10 @@ export class CdkStack extends Stack {
       id,
       entry: join(__dirname, '../src/server/lambda.ts'),
       bucket,
+      environment: {
+        NODE_ENV: 'production',
+        BUCKET: bucket.bucketName,
+      },
     });
 
     // get domainName required by cloudfront
