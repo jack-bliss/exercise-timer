@@ -21,9 +21,9 @@ exercise|Side plank - left|duration|10
 rest|Rest|duration|30
 exercise|Side plank - right|duration|10
 rest|Rest|duration|30
-exercise|Superman|duration|5
+exercise|Superman|duration|10
 rest|Rest|duration|30
-exercise|Superman|duration|5
+exercise|Superman|duration|10
 rest|Rest|duration|30
 exercise|Diamond kneeling pushups|count|10
 rest|Rest|duration|30
