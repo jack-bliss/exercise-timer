@@ -1,4 +1,7 @@
-# Template
+# Workout
+
+* Used for tracking workouts
+* Can create new workouts following format in `./bucket/routines/squats.txt` and then running the `./infra/parse-routine/index.ts` script
 
 ## Local dev
 

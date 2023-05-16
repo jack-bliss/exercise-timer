@@ -1,3 +1,0 @@
-rest|Rest|duration|3
-rest|Rest|duration|3
-rest|Rest|duration|3
