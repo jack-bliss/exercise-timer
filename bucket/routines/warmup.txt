@@ -1,0 +1,20 @@
+stretch|Shoulder posterior - left|duration|20
+stretch|Shoulder posterior - right|duration|20
+stretch|Shoulder overhead - left|duration|20
+stretch|Shoulder overhead - right|duration|20
+stretch|Side lunch - left|duration|20
+stretch|Side lunch - right|duration|20
+stretch|Wrist flexion - left|duration|20
+stretch|Wrist flexion - right|duration|20
+stretch|Wrist extension - left|duration|20
+stretch|Wrist extension - right|duration|20
+stretch|Quadriceps - left|duration|20
+stretch|Quadriceps - right|duration|20
+stretch|Arm circles - forwards|duration|15
+stretch|Arm circles - backwards|duration|15
+stretch|Wrist circles - forwards|duration|15
+stretch|Wrist circles - backwards|duration|15
+stretch|Shoulder rotations - forwads|duration|15
+stretch|Shoulder rotations - backwards|duration|15
+exercise|Kneeling pushups|count|10
+exercise|Pullups|count|3

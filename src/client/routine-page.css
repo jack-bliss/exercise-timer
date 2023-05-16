@@ -1,6 +1,7 @@
 @import './theme/palette.css';
 @import './theme/semantic.css';
 @import './chunks/body.css';
+@import './chunks/links.css';
 @import './Routine/routine.css';
 @import './DoRoutineItem/CountItem/count-item.css';
 @import './DoRoutineItem/DurationItem/duration-item.css';

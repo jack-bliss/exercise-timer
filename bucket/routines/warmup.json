@@ -1,0 +1,185 @@
+{
+  "name": "warmup",
+  "items": [
+    {
+      "name": "Shoulder posterior - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "6d670f90-322d-4fb0-ae7d-afd75a7fe845"
+    },
+    {
+      "name": "Shoulder posterior - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "d566fd62-95cd-4e74-9712-944794bac3e2"
+    },
+    {
+      "name": "Shoulder overhead - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "27d9f791-b00e-40e4-ac8c-3cc84a3446c2"
+    },
+    {
+      "name": "Shoulder overhead - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "50d74d3b-8379-44be-bee5-dc607f3d9d52"
+    },
+    {
+      "name": "Side lunch - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "c3594840-1862-4247-8f62-38ad3c47306f"
+    },
+    {
+      "name": "Side lunch - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "cc5e958e-288a-4348-b2d3-55d766b18894"
+    },
+    {
+      "name": "Wrist flexion - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "569d6c05-5c7e-4ba5-b599-a9088f48537d"
+    },
+    {
+      "name": "Wrist flexion - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "94820b1c-f724-4c7e-990f-637f5c771356"
+    },
+    {
+      "name": "Wrist extension - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "0b04065c-f1d0-4f1b-8898-fd9fc8d94c7d"
+    },
+    {
+      "name": "Wrist extension - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "9f0ff95a-e4dc-4798-a699-5d744411c596"
+    },
+    {
+      "name": "Quadriceps - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "0fb3db3b-2e80-483f-b41e-7e004b0cbc56"
+    },
+    {
+      "name": "Quadriceps - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "ad4af7b6-bec1-4aa0-a412-6ebe56e4c60d"
+    },
+    {
+      "name": "Arm circles - forwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "1b274de6-8ea3-461e-ae48-95d113bb6a97"
+    },
+    {
+      "name": "Arm circles - backwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "767a9fce-a999-4062-80f7-8d14a96c32c4"
+    },
+    {
+      "name": "Wrist circles - forwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "89f41957-8a02-437f-9604-f4e8afb2ca8f"
+    },
+    {
+      "name": "Wrist circles - backwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "4a8b159a-b15a-4c92-974f-fecbb140fd0b"
+    },
+    {
+      "name": "Shoulder rotations - forwads",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "d0e17618-44ee-4a4b-a3f7-4df5c0da1d51"
+    },
+    {
+      "name": "Shoulder rotations - backwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "6c68e6f0-ee97-41c6-a8c5-07b913438cd4"
+    },
+    {
+      "name": "Kneeling pushups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "65900d19-02fc-405c-9342-9b06b783b74c"
+    },
+    {
+      "name": "Pullups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 3
+      },
+      "id": "4f85f5de-781e-43a1-93e5-b7112f703131"
+    }
+  ]
+}

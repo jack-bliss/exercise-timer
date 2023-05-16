@@ -10,6 +10,8 @@ app.use(serveAssets);
 
 app.use('/routine', routine);
 
+app.get('/', (req, res) => res.redirect('/routine'));
+
 app.use(notFound);
 
 app.use(handleError);
