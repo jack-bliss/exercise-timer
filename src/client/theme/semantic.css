@@ -1,6 +1,11 @@
 :root {
   --background: var(--color-murk);
   --text: var(--color-shell);
+  --dark-text: var(--color-murk);
   --primary: var(--color-orange);
   --secondary: var(--color-sky);
+
+  --rest: var(--color-sky);
+  --stretch: var(--color-orange);
+  --exercise: var(--color-lime);
 }

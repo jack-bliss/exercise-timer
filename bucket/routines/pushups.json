@@ -1,0 +1,275 @@
+{
+  "name": "pushups",
+  "items": [
+    {
+      "name": "Shoulder posterior - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "bc79e80f-31d2-48de-8033-f24e2f0f96b6"
+    },
+    {
+      "name": "Shoulder posterior - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "93a4de9e-8f80-4c79-957e-5d286ce5a3eb"
+    },
+    {
+      "name": "Shoulder overhead - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "7d203555-8983-4bcc-ad3f-060c20c99be8"
+    },
+    {
+      "name": "Shoulder overhead - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "94cd4a75-2b11-4133-badc-98669fe07a72"
+    },
+    {
+      "name": "Arm circles - forwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "cdf80475-b28e-410b-8bc1-df143c6ebdb8"
+    },
+    {
+      "name": "Arm circles - backwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "3892018d-6e87-4932-b0db-bcef51930956"
+    },
+    {
+      "name": "Shoulder rotations - forwads",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "7bcc8327-ea30-44ba-a578-530e4b99b62e"
+    },
+    {
+      "name": "Shoulder rotations - backwards",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "0cf99ece-d0fc-41e7-a149-3b2251c0690c"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 10
+      },
+      "id": "138de36e-6d7d-421e-b2c7-87714ba4ce24"
+    },
+    {
+      "name": "Kneeling pushups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "d9869432-edf8-49b0-865a-27a2f24aa7a4"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "6e1e056f-b85f-4255-b3ff-80af7600c7d4"
+    },
+    {
+      "name": "Kneeling pushups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "7fe4dae0-7938-409e-ac74-e18aadd3d8fc"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "1482e81e-e63e-4739-b3fd-8a1000b2b2d6"
+    },
+    {
+      "name": "Dips",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "d50b2f56-442d-4411-b3d0-7fec4b232afa"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "e5ced269-2b76-44b7-899b-696c3f46fd23"
+    },
+    {
+      "name": "Dips",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "3f77650c-8886-4604-9e38-7eea89cdc06c"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "6395098a-3d03-4a28-8a65-0623bbb6ae89"
+    },
+    {
+      "name": "Standard plank",
+      "type": "exercise",
+      "reps": {
+        "type": "duration",
+        "seconds": 20
+      },
+      "id": "597aea3b-7757-4b26-8113-f66f4b0c0ec5"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "0e806b9f-f249-4c8a-a029-3a435a97b32f"
+    },
+    {
+      "name": "Side plank - left",
+      "type": "exercise",
+      "reps": {
+        "type": "duration",
+        "seconds": 10
+      },
+      "id": "6d9ca767-3f86-46a2-bf44-cfa2686f06f4"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "d77e1e0a-6eec-498a-b34b-19ac8a048544"
+    },
+    {
+      "name": "Side plank - right",
+      "type": "exercise",
+      "reps": {
+        "type": "duration",
+        "seconds": 10
+      },
+      "id": "4126e18a-d35a-46b7-b423-c2bf81d6b61b"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "97779784-a2cf-452a-8727-795343037619"
+    },
+    {
+      "name": "Superman",
+      "type": "exercise",
+      "reps": {
+        "type": "duration",
+        "seconds": 5
+      },
+      "id": "6723ce0b-3777-40ef-b246-0836cfb95059"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "3877e124-99c9-4f70-8fb2-e4b192132bf8"
+    },
+    {
+      "name": "Superman",
+      "type": "exercise",
+      "reps": {
+        "type": "duration",
+        "seconds": 5
+      },
+      "id": "01dcd7cd-0c70-4780-a7dc-8a6e3feea772"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "b33af917-5f85-477a-b07f-e9930796029e"
+    },
+    {
+      "name": "Diamond kneeling pushups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "ee08e9a0-536a-4042-a993-a01949cf0eb6"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 30
+      },
+      "id": "fdee4c9b-f2b4-44dc-ad91-523f42cf804f"
+    },
+    {
+      "name": "Diamond kneeling pushups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "40149bc3-35da-40b1-81b6-c7bcbf1acfd3"
+    }
+  ]
+}

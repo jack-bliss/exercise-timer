@@ -1,0 +1,30 @@
+stretch|Shoulder posterior - left|duration|15
+stretch|Shoulder posterior - right|duration|15
+stretch|Shoulder overhead - left|duration|15
+stretch|Shoulder overhead - right|duration|15
+stretch|Arm circles - forwards|duration|15
+stretch|Arm circles - backwards|duration|15
+stretch|Shoulder rotations - forwads|duration|15
+stretch|Shoulder rotations - backwards|duration|15
+rest|Rest|duration|10
+exercise|Kneeling pushups|count|10
+rest|Rest|duration|30
+exercise|Kneeling pushups|count|10
+rest|Rest|duration|30
+exercise|Dips|count|10
+rest|Rest|duration|30
+exercise|Dips|count|10
+rest|Rest|duration|30
+exercise|Standard plank|duration|20
+rest|Rest|duration|30
+exercise|Side plank - left|duration|10
+rest|Rest|duration|30
+exercise|Side plank - right|duration|10
+rest|Rest|duration|30
+exercise|Superman|duration|5
+rest|Rest|duration|30
+exercise|Superman|duration|5
+rest|Rest|duration|30
+exercise|Diamond kneeling pushups|count|10
+rest|Rest|duration|30
+exercise|Diamond kneeling pushups|count|10

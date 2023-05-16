@@ -1,0 +1,37 @@
+stretch|Left leg swings|count|10
+stretch|Right leg swings|count|10
+stretch|Hip rotations - clockwise|count|5
+stretch|Hip rotations - anti-clockwise|count|5
+stretch|Step lunges - both legs|count|20
+exercise|Squats|count|10
+rest|Rest|duration|30
+exercise|Squats|count|10
+rest|Rest|duration|30
+exercise|Split squats - right leg|count|8
+rest|Rest|duration|30
+exercise|Split squats - left leg|count|8
+rest|Rest|duration|30
+exercise|Split squats - right leg|count|8
+rest|Rest|duration|30
+exercise|Split squats - left leg|count|8
+rest|Rest|duration|30
+exercise|Jump squats|count|8
+rest|Rest|duration|30
+exercise|Jump squats|count|8
+rest|Rest|duration|30
+exercise|Assisted pistol squats - right leg|count|6
+rest|Rest|duration|30
+exercise|Assisted pistol squats - left leg|count|6
+rest|Rest|duration|30
+exercise|Assisted pistol squats - right leg|count|6
+rest|Rest|duration|30
+exercise|Assisted pistol squats - left leg|count|6
+rest|Rest|duration|30
+exercise|Wall sit|duration|30
+rest|Rest|duration|30
+exercise|Wall sit|duration|30
+rest|Rest|duration|30
+exercise|Wall sit|duration|60
+exercise|Squats|count|10
+rest|Rest|duration|30
+exercise|Squats|count|10

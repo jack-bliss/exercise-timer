@@ -1,0 +1,15 @@
+.duration-item {
+  position: absolute;
+  inset: 0;
+  background-color: var(--duration-item-background);
+  padding: 120px 0 0;
+  text-align: center;
+  appearance: none;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+  font-size: 60px;
+}
