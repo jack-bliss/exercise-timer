@@ -1,7 +1,8 @@
 import { program } from 'commander';
-import { writeFile } from 'fs/promises';
 import { getFromLocal } from '../../src/server/services/get-asset/get-from-local';
 import { parseRoutine } from './service';
+import { saveToLocal } from '../../src/server/services/save-asset/save-to-local';
+import { saveToBucket } from '../../src/server/services/save-asset/save-to-bucket';
 
 program.requiredOption(
   '--name <name>',
@@ -19,10 +20,12 @@ console.info({ name });
 async function main() {
   const content = await getFromLocal(`./routines/${name}.txt`);
   const parsed = parseRoutine(name, content.toString());
-  await writeFile(
-    `./bucket/routines/${name}.json`,
-    JSON.stringify(parsed, null, 2),
-  );
+  const buffer = Buffer.from(JSON.stringify(parsed, null, 2));
+  const destination = `routines/${name}.json`;
+  await Promise.all([
+    saveToLocal(destination, buffer),
+    saveToBucket(destination, buffer),
+  ]);
 }
 
 main()

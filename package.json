@@ -6,6 +6,7 @@
     "test": "jest",
     "cdk": "cdk",
     "start": "nodemon",
+    "build:routine": "BUCKET=workout.jackbliss.co.uk.assets ts-node ./infra/parse-routine/index.ts",
     "build:lambda": "ts-node ./infra/build.ts --target lambda",
     "build:server": "ts-node ./infra/build.ts --target server",
     "build:client": "ts-node ./infra/bundle.ts",

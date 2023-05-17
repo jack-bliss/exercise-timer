@@ -1,4 +1,4 @@
-import { Fn, App, Stack, StackProps, aws_iam as iam } from 'aws-cdk-lib';
+import { Fn, App, Stack, StackProps, CfnOutput } from 'aws-cdk-lib';
 import { Source } from 'aws-cdk-lib/aws-s3-deployment';
 import { join } from 'path';
 import { createNodejsFunction } from './resources/lambda';
@@ -68,6 +68,8 @@ export class CdkStack extends Stack {
       recordName: appDomainName,
       cloudFrontWebDistribution,
     });
+
+    new CfnOutput(this, `${id}_Assets`, { value: bucket.bucketName });
   }
 }
 
