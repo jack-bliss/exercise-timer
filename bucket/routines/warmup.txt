@@ -2,8 +2,8 @@ stretch|Shoulder posterior - left|duration|20
 stretch|Shoulder posterior - right|duration|20
 stretch|Shoulder overhead - left|duration|20
 stretch|Shoulder overhead - right|duration|20
-stretch|Side lunch - left|duration|20
-stretch|Side lunch - right|duration|20
+stretch|Side lunge - left|duration|20
+stretch|Side lunge - right|duration|20
 stretch|Chest|duration|20
 stretch|Wrist flexion - left|duration|20
 stretch|Wrist flexion - right|duration|20
