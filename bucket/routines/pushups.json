@@ -8,7 +8,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "cd10f492-fd77-47d5-8b65-3b3692f06649"
+      "id": "f756f98d-9513-4f58-9937-eab5420864dc"
     },
     {
       "name": "Shoulder posterior - right",
@@ -17,7 +17,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "8bd2e67a-b9b4-43b4-8c86-ac2c0aaa7c21"
+      "id": "5a537fd1-40e6-4e14-b5b5-37b91463ecc9"
     },
     {
       "name": "Shoulder overhead - left",
@@ -26,7 +26,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "841daad5-e11d-4aa4-81e3-9664b5202b0b"
+      "id": "4cae1559-8ca6-4e26-8902-98ac5f5d9e57"
     },
     {
       "name": "Shoulder overhead - right",
@@ -35,7 +35,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "7b926707-ad1d-417e-8340-9526e5e3487c"
+      "id": "572d4941-843f-425c-8987-6105fe1e4612"
     },
     {
       "name": "Arm circles - forwards",
@@ -44,7 +44,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "68f5cd78-9b8a-4a7d-badd-306a14fd9e56"
+      "id": "85940a3e-bbfa-44b7-be10-c67ffe8c91ca"
     },
     {
       "name": "Arm circles - backwards",
@@ -53,16 +53,16 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "cfaa47eb-4769-41af-9996-1f04b140f17b"
+      "id": "80d987af-84f3-4a8e-8da1-ad6d405cb2e7"
     },
     {
-      "name": "Shoulder rotations - forwads",
+      "name": "Shoulder rotations - forwards",
       "type": "stretch",
       "reps": {
         "type": "duration",
         "seconds": 15
       },
-      "id": "dcb70c5f-9aa7-4970-b2c8-e1ecc485fdbb"
+      "id": "fb80a0d0-de3f-430c-814f-97d3d1ab0eb7"
     },
     {
       "name": "Shoulder rotations - backwards",
@@ -71,7 +71,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "f4f4fb03-045b-4023-915e-7e8cb6642710"
+      "id": "aee58f16-6948-4a50-a6ff-1446924e7f7c"
     },
     {
       "name": "Rest",
@@ -80,7 +80,7 @@
         "type": "duration",
         "seconds": 10
       },
-      "id": "bdadb785-1fd8-4113-8006-3837d34c5d87"
+      "id": "cb125d8a-05fe-4cdf-8823-887873b09cbd"
     },
     {
       "name": "Kneeling pushups",
@@ -89,7 +89,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "364558a3-9047-45fe-9de0-782c3839cbfd"
+      "id": "28a475a3-89a8-4f54-a1bf-61c1983b4dc6"
     },
     {
       "name": "Rest",
@@ -98,7 +98,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "3858e94d-8b41-4e90-9b47-36af27c97b27"
+      "id": "8e7bbfd6-c805-40fa-b89e-15cbcc4e6a8d"
     },
     {
       "name": "Kneeling pushups",
@@ -107,7 +107,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "c1830e32-25dd-4226-8050-480522fcdc1f"
+      "id": "5adfabd6-2997-4c82-8278-33914206eb8d"
     },
     {
       "name": "Rest",
@@ -116,7 +116,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "4d42a264-f644-4b92-8e4e-7b8a5dc2d17c"
+      "id": "88b3171e-ef0d-4888-ac42-02d3168dcfaa"
     },
     {
       "name": "Dips",
@@ -125,7 +125,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "db1246af-5463-4b37-af2c-061cfea31b10"
+      "id": "1b2be23c-7f7a-41b3-87a9-93794e57621c"
     },
     {
       "name": "Rest",
@@ -134,7 +134,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "c016f4eb-03b6-4c3f-85e0-d0dd89d4525f"
+      "id": "eee44246-9693-4314-b464-5c7aded2a89a"
     },
     {
       "name": "Dips",
@@ -143,7 +143,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "d51b8171-3a42-407f-94c7-34565a84dadb"
+      "id": "c28e3315-8494-4e4f-8e63-fc61ddda9d7c"
     },
     {
       "name": "Rest",
@@ -152,7 +152,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "2744b9a1-b212-4ac8-8e34-f131dd0aaee2"
+      "id": "cfc40e29-9c9f-4d1e-bf9a-395ee1a2d3f1"
     },
     {
       "name": "Standard plank",
@@ -161,7 +161,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "68337700-7cb3-45d8-80a4-bc6ae9d7a974"
+      "id": "51795747-300a-4fa7-9d8e-faea4829ecdf"
     },
     {
       "name": "Rest",
@@ -170,7 +170,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "b001fee9-0ea3-461a-afd0-c5e5d0d6fd67"
+      "id": "08e7019d-bb51-46a0-bb3a-3edf340555f6"
     },
     {
       "name": "Side plank - left",
@@ -179,7 +179,7 @@
         "type": "duration",
         "seconds": 10
       },
-      "id": "f3d698d3-a3a1-4a6d-9e9a-41d93410cca2"
+      "id": "9b68fcf4-5d4e-40e0-bf9b-d4f04b764197"
     },
     {
       "name": "Rest",
@@ -188,7 +188,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "0deb5bdc-291d-4403-9df9-64d60d3dff50"
+      "id": "dba51ec6-e7c6-4b76-926c-e072c667766c"
     },
     {
       "name": "Side plank - right",
@@ -197,7 +197,7 @@
         "type": "duration",
         "seconds": 10
       },
-      "id": "69076994-92c3-4a42-a6c3-27ea024ec1e1"
+      "id": "a404eef5-f4d5-478e-9349-3cf077495234"
     },
     {
       "name": "Rest",
@@ -206,7 +206,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "b2c1a449-c20d-43b1-8fe6-d53d43fdd283"
+      "id": "67c11986-bba5-4598-b490-55e2f5e0373b"
     },
     {
       "name": "Superman",
@@ -215,7 +215,7 @@
         "type": "duration",
         "seconds": 10
       },
-      "id": "ffca8cf9-c706-480c-9cde-65c58130536e"
+      "id": "29d19296-c22c-4671-8399-79f25c909f46"
     },
     {
       "name": "Rest",
@@ -224,7 +224,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "1c841482-4144-47fb-b16f-378a5194aa93"
+      "id": "fb9bcc46-4566-4d0a-a868-01cb39404a4f"
     },
     {
       "name": "Superman",
@@ -233,7 +233,7 @@
         "type": "duration",
         "seconds": 10
       },
-      "id": "b54ddc45-482b-4c32-837b-0d052486c8af"
+      "id": "b9671e79-8259-4c7e-8e4c-4e25e1cdf5f9"
     },
     {
       "name": "Rest",
@@ -242,7 +242,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "bd3456a8-f51f-4c7d-ad95-e32b74302156"
+      "id": "190f41ce-e155-44a3-9422-da7bf14c438c"
     },
     {
       "name": "Diamond kneeling pushups",
@@ -251,7 +251,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "4ac6a8a6-2b83-491c-af9f-739b205cd049"
+      "id": "1261a02a-33d2-417e-aac9-36462e37d5e7"
     },
     {
       "name": "Rest",
@@ -260,7 +260,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "90790880-5f60-470a-8ba1-bf352ca401dd"
+      "id": "1d3f08f2-6683-4257-b051-dbd098ec8022"
     },
     {
       "name": "Diamond kneeling pushups",
@@ -269,7 +269,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "3f113532-d4a3-4be6-acae-f532e9ce85aa"
+      "id": "6f2cb999-fdec-472b-99cc-4478034381f8"
     }
   ]
 }

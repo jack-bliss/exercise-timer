@@ -4,12 +4,12 @@ stretch|Shoulder overhead - left|duration|15
 stretch|Shoulder overhead - right|duration|15
 stretch|Arm circles - forwards|duration|15
 stretch|Arm circles - backwards|duration|15
-stretch|Shoulder rotations - forwads|duration|15
+stretch|Shoulder rotations - forwards|duration|15
 stretch|Shoulder rotations - backwards|duration|15
 rest|Rest|duration|10
-exercise|Kneeling pushups|count|10
+exercise|Kneeling push-ups|count|10
 rest|Rest|duration|30
-exercise|Kneeling pushups|count|10
+exercise|Kneeling push-ups|count|10
 rest|Rest|duration|30
 exercise|Dips|count|10
 rest|Rest|duration|30
@@ -25,6 +25,6 @@ exercise|Superman|duration|10
 rest|Rest|duration|30
 exercise|Superman|duration|10
 rest|Rest|duration|30
-exercise|Diamond kneeling pushups|count|10
+exercise|Diamond kneeling push-ups|count|10
 rest|Rest|duration|30
-exercise|Diamond kneeling pushups|count|10
+exercise|Diamond kneeling push-ups|count|10

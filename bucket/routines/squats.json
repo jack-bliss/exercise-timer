@@ -2,22 +2,22 @@
   "name": "squats",
   "items": [
     {
-      "name": "Left leg swings",
+      "name": "Leg swings - left",
       "type": "stretch",
       "reps": {
         "type": "count",
         "count": 10
       },
-      "id": "ad0d8a97-8326-4843-a1fc-6986bad57766"
+      "id": "f65564e5-dcae-46d4-adeb-35d969ca5abf"
     },
     {
-      "name": "Right leg swings",
+      "name": "Leg swings - right",
       "type": "stretch",
       "reps": {
         "type": "count",
         "count": 10
       },
-      "id": "91de6482-ee18-407e-bf93-fe5df7fcb8a1"
+      "id": "eb0b0883-ff44-4c67-946e-666188c37dab"
     },
     {
       "name": "Hip rotations - clockwise",
@@ -26,7 +26,7 @@
         "type": "count",
         "count": 5
       },
-      "id": "f20a577d-b030-4ed1-9964-b650d4d2e8e1"
+      "id": "92698f68-a58b-4759-acb1-aee70322bb3e"
     },
     {
       "name": "Hip rotations - anti-clockwise",
@@ -35,16 +35,52 @@
         "type": "count",
         "count": 5
       },
-      "id": "921d78c7-2ce6-495a-aba5-b5bc3cbd9bae"
+      "id": "c6180342-0fed-4a11-bb63-dea5962f3451"
     },
     {
-      "name": "Step lunges - both legs",
+      "name": "Quadriceps - left",
       "type": "stretch",
       "reps": {
-        "type": "count",
-        "count": 20
+        "type": "duration",
+        "seconds": 15
       },
-      "id": "ecc8617e-a9df-4090-87d0-3899fffa6ee9"
+      "id": "b3cfaa4a-40be-4d75-879c-b1ded93fb0c6"
+    },
+    {
+      "name": "Quadriceps - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "1555c0c4-48cb-415d-bdf9-7eece357a0ee"
+    },
+    {
+      "name": "Side lunge - left",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "73e1a7d0-90a8-4ba3-adea-f10c606b0e19"
+    },
+    {
+      "name": "Side lunge - right",
+      "type": "stretch",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "280310b5-9122-4b23-9c62-21717d2610a8"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 15
+      },
+      "id": "1acabbfa-15a1-4ff5-8d2f-babe59b7f2c8"
     },
     {
       "name": "Squats",
@@ -53,7 +89,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "0dccea6f-891d-4eaf-b4c1-526c6caf5e16"
+      "id": "2ae2f3f8-01d6-4e62-a1d7-464b7bfb43ed"
     },
     {
       "name": "Rest",
@@ -62,7 +98,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "f59a1c22-28d1-4b3b-9a23-c596c56611a2"
+      "id": "4046373b-08d1-4c08-821b-513ab1ccd976"
     },
     {
       "name": "Squats",
@@ -71,7 +107,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "c40fc566-91e7-49ab-9e45-9ab708896426"
+      "id": "c210f486-4713-408e-a1fe-c4c008c02fce"
     },
     {
       "name": "Rest",
@@ -80,7 +116,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "7e9385c2-6181-40c1-a72c-ba38ab1aa217"
+      "id": "896caa17-66e0-479b-bccc-6e8a2484b42d"
     },
     {
       "name": "Split squats - right leg",
@@ -89,7 +125,7 @@
         "type": "count",
         "count": 8
       },
-      "id": "3f44ef62-246d-4fe5-8e78-dc84498b3073"
+      "id": "5f7b6049-72a9-47f2-a90b-62c96785ef1c"
     },
     {
       "name": "Rest",
@@ -98,7 +134,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "35e0486b-167a-4d0c-a35f-2fee6e335176"
+      "id": "f741d4e9-345a-4e72-88ba-5a073e9b31cb"
     },
     {
       "name": "Split squats - left leg",
@@ -107,7 +143,7 @@
         "type": "count",
         "count": 8
       },
-      "id": "7812db7c-36eb-4031-8c2d-423e1b02fdc6"
+      "id": "f89af151-f41f-464e-8c01-2aa3b1dc783e"
     },
     {
       "name": "Rest",
@@ -116,7 +152,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "e3a3266a-80c9-4560-88e5-9b6b59aab5ec"
+      "id": "cb1e86d1-3f22-4d5e-9d48-f94ba0b8efbc"
     },
     {
       "name": "Split squats - right leg",
@@ -125,7 +161,7 @@
         "type": "count",
         "count": 8
       },
-      "id": "76708e18-4c79-449f-9c79-f49044dbe001"
+      "id": "62ba196e-c74a-4830-b3d2-1a5c48086c51"
     },
     {
       "name": "Rest",
@@ -134,7 +170,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "316a2cef-8343-42a5-9cd3-5e7c3c169591"
+      "id": "0a4bae67-83f7-4b23-9152-a23725174aca"
     },
     {
       "name": "Split squats - left leg",
@@ -143,7 +179,7 @@
         "type": "count",
         "count": 8
       },
-      "id": "26d01ead-5981-45e1-81e2-c876c8f66ffc"
+      "id": "13f3592d-27bc-4cb0-9999-7000418a271e"
     },
     {
       "name": "Rest",
@@ -152,7 +188,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "63af6f8a-f144-446a-af57-77467196cfac"
+      "id": "f54f2ea2-8be8-4d30-9d5b-312efb6388cf"
     },
     {
       "name": "Jump squats",
@@ -161,7 +197,7 @@
         "type": "count",
         "count": 8
       },
-      "id": "bfeed7e1-ba5b-422c-86f4-e8ffc1fff8d8"
+      "id": "5d61caf9-3dbd-4249-a886-daa9d4d05332"
     },
     {
       "name": "Rest",
@@ -170,7 +206,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "98cb4289-4be1-4a7b-a16e-398180071fe9"
+      "id": "9cb7a020-74b7-48d4-b978-6c7307b918dc"
     },
     {
       "name": "Jump squats",
@@ -179,7 +215,7 @@
         "type": "count",
         "count": 8
       },
-      "id": "db3e0555-9279-4615-9afb-73266fd09503"
+      "id": "294ac0ce-70e5-4d56-bd58-611d2ffc26af"
     },
     {
       "name": "Rest",
@@ -188,7 +224,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "a72e3aa5-c4a0-4589-8f85-dcc15b547c01"
+      "id": "a4b2b1cd-c39f-471a-8006-1519a5c19ac6"
     },
     {
       "name": "Assisted pistol squats - right leg",
@@ -197,7 +233,7 @@
         "type": "count",
         "count": 6
       },
-      "id": "6b288993-9545-41a5-82da-7faaef3b137f"
+      "id": "d31800b1-3774-4fd6-855d-af7a280b46d0"
     },
     {
       "name": "Rest",
@@ -206,7 +242,7 @@
         "type": "duration",
         "seconds": 30
       },
-      "id": "068faf40-fd77-4523-8e27-4be78f3130f2"
+      "id": "0b5dfccc-62c4-4318-97fc-cff299560b71"
     },
     {
       "name": "Assisted pistol squats - left leg",
@@ -215,124 +251,7 @@
         "type": "count",
         "count": 6
       },
-      "id": "de432366-2180-4a3f-8b64-62e1ce8241d7"
-    },
-    {
-      "name": "Rest",
-      "type": "rest",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "be92b8f0-1123-4dfa-94a0-ed48a202e700"
-    },
-    {
-      "name": "Assisted pistol squats - right leg",
-      "type": "exercise",
-      "reps": {
-        "type": "count",
-        "count": 6
-      },
-      "id": "c1d90d9d-c86e-4c47-8d79-6af263fa834c"
-    },
-    {
-      "name": "Rest",
-      "type": "rest",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "f5f0f90e-10c7-4a2b-aaa4-782ef1bff1a4"
-    },
-    {
-      "name": "Assisted pistol squats - left leg",
-      "type": "exercise",
-      "reps": {
-        "type": "count",
-        "count": 6
-      },
-      "id": "c7b2e0cf-60a7-41fa-9b90-e4e64efc202e"
-    },
-    {
-      "name": "Rest",
-      "type": "rest",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "76707d4c-1626-4b25-9da1-4112587ecacd"
-    },
-    {
-      "name": "Wall sit",
-      "type": "exercise",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "10fc388f-22cb-4789-aee1-2f2ca234dc63"
-    },
-    {
-      "name": "Rest",
-      "type": "rest",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "54c2d650-4fa2-49c8-9cea-fb1c5f36038d"
-    },
-    {
-      "name": "Wall sit",
-      "type": "exercise",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "8b2fea56-b145-47f7-bf1b-197bfc4d747a"
-    },
-    {
-      "name": "Rest",
-      "type": "rest",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "41a18523-4605-4939-8780-17bca27f7b60"
-    },
-    {
-      "name": "Wall sit",
-      "type": "exercise",
-      "reps": {
-        "type": "duration",
-        "seconds": 60
-      },
-      "id": "3eb00b7f-0adb-4e13-b370-e542d488f82c"
-    },
-    {
-      "name": "Squats",
-      "type": "exercise",
-      "reps": {
-        "type": "count",
-        "count": 10
-      },
-      "id": "3f2cbb48-a16e-4551-8068-e5b94e35754d"
-    },
-    {
-      "name": "Rest",
-      "type": "rest",
-      "reps": {
-        "type": "duration",
-        "seconds": 30
-      },
-      "id": "e431d655-a81e-474a-ae77-0558f78df6a7"
-    },
-    {
-      "name": "Squats",
-      "type": "exercise",
-      "reps": {
-        "type": "count",
-        "count": 10
-      },
-      "id": "219c78ad-db4d-4819-bde0-94202be97333"
+      "id": "0fb62970-c766-4b8d-b1cc-c87765978b31"
     }
   ]
 }
