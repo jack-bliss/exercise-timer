@@ -5,10 +5,8 @@ stretch|Shoulder overhead - right|duration|20
 stretch|Side lunge - left|duration|20
 stretch|Side lunge - right|duration|20
 stretch|Chest|duration|20
-stretch|Wrist flexion - left|duration|20
-stretch|Wrist flexion - right|duration|20
-stretch|Wrist extension - left|duration|20
-stretch|Wrist extension - right|duration|20
+stretch|Wrist flexion|duration|20
+stretch|Wrist extension|duration|20
 stretch|Quadriceps - left|duration|20
 stretch|Quadriceps - right|duration|20
 stretch|Arm circles - forwards|duration|15

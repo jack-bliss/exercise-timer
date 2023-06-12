@@ -8,7 +8,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "68ba84fb-ce4a-4f7a-9f95-5b6abee6ffed"
+      "id": "48d61029-a022-45ca-a894-a55219bb457c"
     },
     {
       "name": "Shoulder posterior - right",
@@ -17,7 +17,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "c2ac63d1-f2b9-40f3-bd2c-7576d07b869a"
+      "id": "621dd96a-3c45-4aa2-bdbb-0489c39b0dfb"
     },
     {
       "name": "Shoulder overhead - left",
@@ -26,7 +26,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "63b24b27-875f-438c-9172-c6bc33636e5e"
+      "id": "a24a000f-c6f1-46a1-9dd7-b4963fa1702c"
     },
     {
       "name": "Shoulder overhead - right",
@@ -35,7 +35,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "3a1de5e4-a637-42aa-a773-c2e84e331589"
+      "id": "268b906b-1c11-4e0b-bc11-569e2e5f2aad"
     },
     {
       "name": "Side lunge - left",
@@ -44,7 +44,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "69bfde3d-34ce-44ef-853a-4f439b083d89"
+      "id": "ae660a41-5021-49e9-9c7e-2b11282a946d"
     },
     {
       "name": "Side lunge - right",
@@ -53,7 +53,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "65a070fe-24bb-40df-b9e6-3b980039d5c6"
+      "id": "12f8e726-92b4-4a49-856c-a1cabef7e769"
     },
     {
       "name": "Chest",
@@ -62,43 +62,25 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "4413ccf4-aa3a-4a23-89e4-58e82589f221"
+      "id": "da92c231-ff90-4233-a87f-05be9cab8735"
     },
     {
-      "name": "Wrist flexion - left",
+      "name": "Wrist flexion",
       "type": "stretch",
       "reps": {
         "type": "duration",
         "seconds": 20
       },
-      "id": "902cd57d-fb45-4e5a-9f1e-6b952ecddcfe"
+      "id": "2c2488a6-d792-4b88-9ab1-97c283cf7b1c"
     },
     {
-      "name": "Wrist flexion - right",
+      "name": "Wrist extension",
       "type": "stretch",
       "reps": {
         "type": "duration",
         "seconds": 20
       },
-      "id": "28e20f4d-4cd7-49e3-9e2b-fac4e4090cea"
-    },
-    {
-      "name": "Wrist extension - left",
-      "type": "stretch",
-      "reps": {
-        "type": "duration",
-        "seconds": 20
-      },
-      "id": "9b78c045-58ea-4e7e-a3d8-ff0d3f45b066"
-    },
-    {
-      "name": "Wrist extension - right",
-      "type": "stretch",
-      "reps": {
-        "type": "duration",
-        "seconds": 20
-      },
-      "id": "12c0575c-32df-44a0-9c32-0058080c9e94"
+      "id": "bd8b7abf-fe90-40d0-8252-9729da02412b"
     },
     {
       "name": "Quadriceps - left",
@@ -107,7 +89,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "75997b01-c2b8-4143-baaf-fdb25baa0625"
+      "id": "13cee55f-1541-44c8-8e98-eb92c98863c5"
     },
     {
       "name": "Quadriceps - right",
@@ -116,7 +98,7 @@
         "type": "duration",
         "seconds": 20
       },
-      "id": "26f79b5b-77ec-4e5e-b6ab-0b64deaef814"
+      "id": "825460c6-4690-4896-9043-2b35c596e0fa"
     },
     {
       "name": "Arm circles - forwards",
@@ -125,7 +107,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "39663d2b-bcd7-41af-8e62-9848091c160c"
+      "id": "64580298-0337-43de-b4ca-00bfd7720316"
     },
     {
       "name": "Arm circles - backwards",
@@ -134,7 +116,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "4f31f190-cf8d-499f-8123-3698a6d8a27f"
+      "id": "a92e4779-31bb-42b5-bb7d-e12f4cc81dd4"
     },
     {
       "name": "Wrist circles - forwards",
@@ -143,7 +125,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "a7dc05fc-4103-490f-a215-74a55da729f6"
+      "id": "5a6aa1ad-eff8-45b4-842f-93baf743b017"
     },
     {
       "name": "Wrist circles - backwards",
@@ -152,7 +134,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "dc835847-6740-4b20-b11a-2d96cd1f01dc"
+      "id": "4e33ae12-ee30-4454-ad3f-a078de236ec6"
     },
     {
       "name": "Shoulder rotations - forwads",
@@ -161,7 +143,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "3a799b5d-ed01-42e7-9c1f-0709510b8042"
+      "id": "5ebdf7fb-c6b6-48f0-9593-e56c24ae496d"
     },
     {
       "name": "Shoulder rotations - backwards",
@@ -170,7 +152,7 @@
         "type": "duration",
         "seconds": 15
       },
-      "id": "0e37e24b-6c27-4888-b8f0-a8c887b3df0d"
+      "id": "b30e6476-9263-48ea-9c3f-e8d0ed62d398"
     },
     {
       "name": "Kneeling pushups",
@@ -179,7 +161,7 @@
         "type": "count",
         "count": 10
       },
-      "id": "f5e130c8-979c-4f0e-a603-373714181f42"
+      "id": "a2f4eb13-a4f0-42f4-b133-1531cf871736"
     },
     {
       "name": "Pullups",
@@ -188,7 +170,7 @@
         "type": "count",
         "count": 3
       },
-      "id": "653451dd-2667-47a6-9acd-f99fa2fa6fc0"
+      "id": "f964ebcf-bd04-44af-9258-2bd8243f9b53"
     }
   ]
 }
