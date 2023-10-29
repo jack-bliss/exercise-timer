@@ -1,0 +1,131 @@
+{
+  "name": "savoy",
+  "items": [
+    {
+      "name": "Plié squat to curtsy lunge",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "b2d8c0af-b7b1-4ab7-983e-58c344656c22"
+    },
+    {
+      "name": "Supermans",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "7fa19788-699d-4233-aedd-7b5388cb2c55"
+    },
+    {
+      "name": "Reverse grip couch push-ups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "68b8cb45-f8f9-4230-95a6-5cc5599a869c"
+    },
+    {
+      "name": "Push-ups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "7a4637da-1c48-480d-a3a5-0e4642bace94"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 90
+      },
+      "id": "3cf2970d-59c2-4dfe-aa33-cf4f9cdf2d5f"
+    },
+    {
+      "name": "Plié squat to curtsy lunge",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "b45395d8-435f-4e8c-96d2-15a4c2fd94cb"
+    },
+    {
+      "name": "Supermans",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "8c668658-997a-47fb-bc33-75a3c9282820"
+    },
+    {
+      "name": "Reverse grip couch push-ups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "8698e9ca-1e6d-43e5-a332-2710d2b49adf"
+    },
+    {
+      "name": "Push-ups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "3d814faa-77cd-4272-b74a-4551f3f1aa1b"
+    },
+    {
+      "name": "Rest",
+      "type": "rest",
+      "reps": {
+        "type": "duration",
+        "seconds": 90
+      },
+      "id": "3399c4c4-17fd-4f17-91bb-6815610f583d"
+    },
+    {
+      "name": "Plié squat to curtsy lunge",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "464f9f56-fdea-4b04-9f7b-e0b098acb48a"
+    },
+    {
+      "name": "Supermans",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "42eafa1d-55bb-4341-a52e-53571222f1dd"
+    },
+    {
+      "name": "Reverse grip couch push-ups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "d4e0ec63-6777-4490-9554-2d74ada05136"
+    },
+    {
+      "name": "Push-ups",
+      "type": "exercise",
+      "reps": {
+        "type": "count",
+        "count": 10
+      },
+      "id": "99cd7a44-635f-49de-a9d3-17d1908bfef9"
+    }
+  ]
+}

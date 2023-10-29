@@ -5,8 +5,8 @@ import { saveToLocal } from '../../src/server/services/save-asset/save-to-local'
 import { saveToBucket } from '../../src/server/services/save-asset/save-to-bucket';
 
 program.requiredOption(
-  '--name <name>',
-  'File name to parse inside routines folder',
+  '-n, --name <name>',
+  'File name to parse inside routines folder (e.g., "squats")',
 );
 
 program.parse();

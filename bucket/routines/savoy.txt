@@ -1,0 +1,14 @@
+exercise|Plié squat to curtsy lunge|count|10
+exercise|Supermans|count|10
+exercise|Reverse grip couch push-ups|count|10
+exercise|Push-ups|count|10
+rest|Rest|duration|90
+exercise|Plié squat to curtsy lunge|count|10
+exercise|Supermans|count|10
+exercise|Reverse grip couch push-ups|count|10
+exercise|Push-ups|count|10
+rest|Rest|duration|90
+exercise|Plié squat to curtsy lunge|count|10
+exercise|Supermans|count|10
+exercise|Reverse grip couch push-ups|count|10
+exercise|Push-ups|count|10
