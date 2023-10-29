@@ -1,7 +1,11 @@
 # Workout
 
 * Used for tracking workouts
+
+## New workout
+
 * Can create new workouts following format in `./bucket/routines/squats.txt` and then running the `./infra/parse-routine/index.ts` script
+* Add it to the list in `./src/server/pages/routine/index.ts`
 
 ## Local dev
 
