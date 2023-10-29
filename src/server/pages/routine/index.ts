@@ -24,7 +24,7 @@ const routines: { label: string; path: string }[] = [
   { label: 'Gym warmup', path: 'warmup' },
   { label: 'Squats', path: 'squats' },
   { label: 'Push-ups', path: 'pushups' },
-  { label: 'SAvoy', path: 'savoy' },
+  { label: 'Savoy', path: 'savoy' },
 ];
 
 routine.get('/', async (req, res) => {
